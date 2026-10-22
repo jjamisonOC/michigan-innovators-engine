@@ -76,6 +76,8 @@ class SupabaseDBClient:
         }
         if "local_industry_distribution" in org_data and org_data["local_industry_distribution"] is not None:
             payload["local_industry_distribution"] = org_data["local_industry_distribution"]
+        if "site_selection_profile" in org_data and org_data["site_selection_profile"] is not None:
+            payload["site_selection_profile"] = org_data["site_selection_profile"]
         if org_data.get("id"):
             payload["id"] = org_data["id"]
         return payload
