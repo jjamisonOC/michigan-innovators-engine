@@ -1,0 +1,1497 @@
+[
+  {
+    "name": "Ann Arbor SPARK (Ann Arbor / Ypsilanti SmartZone)",
+    "slug": "ann-arbor-spark",
+    "url": "https://annarborusa.org",
+    "org_type": "State SmartZone",
+    "ownership": "Public-Private Partnership",
+    "address": "330 E Liberty St, Lower Level, Ann Arbor, MI 48104",
+    "city": "Ann Arbor",
+    "region": "Region 9: Southeast Michigan",
+    "latitude": 42.279341,
+    "longitude": -83.745392,
+    "description": "MEDC-designated SmartZone and economic development catalyst for Washtenaw and Livingston counties, operating SPARK Central Innovation Center and SPARK East Incubator with pre-seed capital, bootcamps, and EIR coaching.",
+    "application_url": "https://annarborusa.org/entrepreneurial-services/",
+    "contact_email": "info@annarborusa.org",
+    "industry_specialties": [
+      "CleanTech, Energy & Blue Economy",
+      "Main Street, Creative & Small Business",
+      "MedTech, Biotech & Life Sciences",
+      "Mobility, EV & Electrification",
+      "SaaS, AI & Enterprise Software"
+    ],
+    "specialized_equipment": [
+      "High-Performance Computing & AI Cluster",
+      "Media Studio & Podcasting Suite"
+    ],
+    "services_and_curriculum": [
+      "Customer Discovery & NSF I-Corps",
+      "Executive Mentorship & EIR Program",
+      "IP, Patent & Tech Transfer Clinics",
+      "SBIR/STTR & Non-Dilutive Grant Writing",
+      "Venture Fundraising & Pitch Coaching"
+    ],
+    "last_quarterly_scrape": "2026-10-21T21:57:02.662057+00:00"
+  },
+  {
+    "name": "TechTown Detroit (Detroit SmartZone)",
+    "slug": "techtown-detroit",
+    "url": "https://techtowndetroit.org",
+    "org_type": "State SmartZone",
+    "ownership": "Public-Private Partnership",
+    "address": "440 Burroughs St, Detroit, MI 48202",
+    "city": "Detroit",
+    "region": "Region 10: Detroit Metro",
+    "latitude": 42.365314,
+    "longitude": -83.072592,
+    "description": "Wayne State University's urban research park and MEDC SmartZone hub in Midtown Detroit, accelerating tech startups and neighborhood small businesses via Start Studio, Retail Boot Camp, and EIR mentorship.",
+    "application_url": "https://techtowndetroit.org/programs/",
+    "contact_email": "info@techtowndetroit.org",
+    "industry_specialties": [
+      "Advanced Manufacturing & Industry 4.0",
+      "Main Street, Creative & Small Business",
+      "MedTech, Biotech & Life Sciences",
+      "Mobility, EV & Electrification",
+      "SaaS, AI & Enterprise Software"
+    ],
+    "specialized_equipment": [
+      "Electronics & IoT Prototyping Lab",
+      "Media Studio & Podcasting Suite"
+    ],
+    "services_and_curriculum": [
+      "Customer Discovery & NSF I-Corps",
+      "Executive Mentorship & EIR Program",
+      "Financial Modeling & Accounting Readiness",
+      "IP, Patent & Tech Transfer Clinics",
+      "Venture Fundraising & Pitch Coaching"
+    ],
+    "last_quarterly_scrape": "2026-10-21T21:57:02.436662+00:00"
+  },
+  {
+    "name": "Centreopolis Accelerator at Lawrence Technological University (Southfield SmartZone)",
+    "slug": "centreopolis-accelerator-ltu",
+    "url": "https://www.centreopolisaccelerator.com",
+    "org_type": "State SmartZone",
+    "ownership": "Public-Private Partnership",
+    "address": "21415 Civic Center Dr, Suite 100, Southfield, MI 48076",
+    "city": "Southfield",
+    "region": "Region 10: Detroit Metro",
+    "latitude": 42.47931,
+    "longitude": -83.24562,
+    "description": "Michigan's flagship hardware, physical product, and advanced manufacturing MEDC SmartZone hosted by Lawrence Technological University, featuring a 6,300 sq. ft. rapid prototyping lab and C3 CleanTech programming.",
+    "application_url": "https://www.centreopolisaccelerator.com/apply",
+    "contact_email": "info@centreopolisaccelerator.com",
+    "industry_specialties": [
+      "Advanced Manufacturing & Industry 4.0",
+      "CleanTech, Energy & Blue Economy",
+      "MedTech, Biotech & Life Sciences",
+      "Mobility, EV & Electrification"
+    ],
+    "specialized_equipment": [
+      "3D Printing & Additive Manufacturing",
+      "CNC Machining & Metal Fabrication",
+      "Electronics & IoT Prototyping Lab"
+    ],
+    "services_and_curriculum": [
+      "Executive Mentorship & EIR Program",
+      "Hardware DFM & Supply Chain Advisory",
+      "IP, Patent & Tech Transfer Clinics",
+      "SBIR/STTR & Non-Dilutive Grant Writing",
+      "Venture Fundraising & Pitch Coaching"
+    ],
+    "last_quarterly_scrape": "2026-10-21T21:56:59.690963+00:00"
+  },
+  {
+    "name": "OU INC (Oakland University SmartZone Incubator)",
+    "slug": "ou-inc-rochester",
+    "url": "https://www.oakland.edu/ouinc/",
+    "org_type": "State SmartZone",
+    "ownership": "Public-Private Partnership",
+    "address": "411 Pioneer Dr, Rochester, MI 48309",
+    "city": "Rochester",
+    "region": "Region 10: Detroit Metro",
+    "latitude": 42.66984,
+    "longitude": -83.21054,
+    "description": "SmartZone business incubator in partnership with the City of Rochester Hills, Oakland University, and Michigan Economic Development Corporation, supporting Energy, Connected Vehicle, BioMed, and Defense startups.",
+    "application_url": "https://www.oakland.edu/ouinc/client-services/",
+    "contact_email": "ouinc@oakland.edu",
+    "industry_specialties": [
+      "AgTech, Food & Forestry",
+      "CleanTech, Energy & Blue Economy",
+      "Defense, Aerospace & Dual-Use",
+      "Main Street, Creative & Small Business",
+      "MedTech, Biotech & Life Sciences",
+      "Mobility, EV & Electrification",
+      "SaaS, AI & Enterprise Software"
+    ],
+    "specialized_equipment": [
+      "3D Printing & Additive Manufacturing",
+      "Electronics & IoT Prototyping Lab",
+      "Wet Labs & BSL-1/BSL-2 Suites"
+    ],
+    "services_and_curriculum": [
+      "Executive Mentorship & EIR Program",
+      "IP, Patent & Tech Transfer Clinics",
+      "SBIR/STTR & Non-Dilutive Grant Writing",
+      "Venture Fundraising & Pitch Coaching"
+    ],
+    "last_quarterly_scrape": "2026-10-21T21:57:01.162661+00:00"
+  },
+  {
+    "name": "Velocity Collaboration Center & Macomb-OU INCubator (Sterling Heights SmartZone)",
+    "slug": "velocity-macomb-ou-inc",
+    "url": "https://www.velocitycenter.org",
+    "org_type": "State SmartZone",
+    "ownership": "Public-Private Partnership",
+    "address": "6633 18 Mile Rd, Sterling Heights, MI 48314",
+    "city": "Sterling Heights",
+    "region": "Region 10: Detroit Metro",
+    "latitude": 42.59641,
+    "longitude": -83.04198,
+    "description": "Macomb County's MEDC SmartZone and defense/homeland security commercialization hub managed in collaboration with Oakland University and the City of Sterling Heights.",
+    "application_url": "https://www.velocitycenter.org/programs/",
+    "contact_email": "macombouinc@oakland.edu",
+    "industry_specialties": [
+      "Advanced Manufacturing & Industry 4.0",
+      "Defense, Aerospace & Dual-Use",
+      "Mobility, EV & Electrification",
+      "SaaS, AI & Enterprise Software"
+    ],
+    "specialized_equipment": [
+      "3D Printing & Additive Manufacturing",
+      "Autonomous & Mobility Testing Track",
+      "Electronics & IoT Prototyping Lab"
+    ],
+    "services_and_curriculum": [
+      "Executive Mentorship & EIR Program",
+      "IP, Patent & Tech Transfer Clinics",
+      "SBIR/STTR & Non-Dilutive Grant Writing",
+      "Venture Fundraising & Pitch Coaching"
+    ],
+    "last_quarterly_scrape": "2026-10-21T21:56:59.870809+00:00"
+  },
+  {
+    "name": "Automation Alley (Troy Industry 4.0 SmartZone)",
+    "slug": "automation-alley",
+    "url": "https://www.automationalley.com",
+    "org_type": "State SmartZone",
+    "ownership": "Public-Private Partnership",
+    "address": "2675 Bellingham Dr, Troy, MI 48083",
+    "city": "Troy",
+    "region": "Region 10: Detroit Metro",
+    "latitude": 42.56085,
+    "longitude": -83.12062,
+    "description": "Michigan's Industry 4.0 knowledge center and World Economic Forum Advanced Manufacturing Hub, helping startups and manufacturers adopt AI, additive manufacturing, robotics, and industrial IoT.",
+    "application_url": "https://www.automationalley.com/membership",
+    "contact_email": "info@automationalley.com",
+    "industry_specialties": [
+      "Advanced Manufacturing & Industry 4.0",
+      "AgTech, Food & Forestry",
+      "CleanTech, Energy & Blue Economy",
+      "Defense, Aerospace & Dual-Use",
+      "Main Street, Creative & Small Business",
+      "MedTech, Biotech & Life Sciences",
+      "Mobility, EV & Electrification",
+      "SaaS, AI & Enterprise Software"
+    ],
+    "specialized_equipment": [
+      "3D Printing & Additive Manufacturing",
+      "CNC Machining & Metal Fabrication",
+      "Cleanroom & Microelectronics Facility",
+      "Electronics & IoT Prototyping Lab",
+      "High-Performance Computing & AI Cluster"
+    ],
+    "services_and_curriculum": [
+      "Executive Mentorship & EIR Program",
+      "Financial Modeling & Accounting Readiness",
+      "Hardware DFM & Supply Chain Advisory",
+      "IP, Patent & Tech Transfer Clinics",
+      "Venture Fundraising & Pitch Coaching"
+    ],
+    "last_quarterly_scrape": "2026-10-21T21:57:03.991040+00:00"
+  },
+  {
+    "name": "Start Garden (Grand Rapids SmartZone)",
+    "slug": "start-garden-grand-rapids",
+    "url": "https://startgarden.com",
+    "org_type": "State SmartZone",
+    "ownership": "Public-Private Partnership",
+    "address": "40 Pearl St NW, Suite 200, Grand Rapids, MI 49503",
+    "city": "Grand Rapids",
+    "region": "Region 4: West Michigan",
+    "latitude": 42.96588,
+    "longitude": -85.67164,
+    "description": "Grand Rapids SmartZone incubator and pre-seed startup ecosystem operator running the annual 100 Ideas pitch competition, 5x5 Night micro-grants, and early-stage founder incubation.",
+    "application_url": "https://startgarden.com/programs/",
+    "contact_email": "info@startgarden.com",
+    "industry_specialties": [
+      "Advanced Manufacturing & Industry 4.0",
+      "Main Street, Creative & Small Business",
+      "MedTech, Biotech & Life Sciences",
+      "Mobility, EV & Electrification",
+      "SaaS, AI & Enterprise Software"
+    ],
+    "specialized_equipment": [
+      "Media Studio & Podcasting Suite"
+    ],
+    "services_and_curriculum": [
+      "Customer Discovery & NSF I-Corps",
+      "Executive Mentorship & EIR Program",
+      "IP, Patent & Tech Transfer Clinics",
+      "Venture Fundraising & Pitch Coaching"
+    ],
+    "last_quarterly_scrape": "2026-10-21T21:57:03.165432+00:00"
+  },
+  {
+    "name": "WMed Innovation Center / Southwest Michigan Innovation Center (Kalamazoo SmartZone)",
+    "slug": "wmed-innovation-center-kalamazoo",
+    "url": "https://wmed.edu/innovationcenter",
+    "org_type": "State SmartZone",
+    "ownership": "Public-Private Partnership",
+    "address": "4717 Campus Dr, Kalamazoo, MI 49008",
+    "city": "Kalamazoo",
+    "region": "Region 8: Southwest Michigan",
+    "latitude": 42.25128,
+    "longitude": -85.64759,
+    "description": "69,000-square-foot purpose-built life sciences, biotechnology, and medical device MEDC SmartZone incubator at Western Michigan University Homer Stryker M.D. School of Medicine.",
+    "application_url": "https://wmed.edu/innovationcenter",
+    "contact_email": "innovation@wmed.edu",
+    "industry_specialties": [
+      "Advanced Manufacturing & Industry 4.0",
+      "CleanTech, Energy & Blue Economy",
+      "MedTech, Biotech & Life Sciences"
+    ],
+    "specialized_equipment": [
+      "3D Printing & Additive Manufacturing",
+      "Cleanroom & Microelectronics Facility",
+      "Wet Labs & BSL-1/BSL-2 Suites"
+    ],
+    "services_and_curriculum": [
+      "FDA Regulatory & Clinical Pathways",
+      "IP, Patent & Tech Transfer Clinics",
+      "SBIR/STTR & Non-Dilutive Grant Writing",
+      "Venture Fundraising & Pitch Coaching"
+    ],
+    "last_quarterly_scrape": "2026-10-21T21:57:11.680912+00:00"
+  },
+  {
+    "name": "Spartan Innovations & Lansing Regional SmartZone (LEAP / East Lansing)",
+    "slug": "spartan-innovations-lansing-smartzone",
+    "url": "https://spartaninnovations.org",
+    "org_type": "State SmartZone",
+    "ownership": "Public-Private Partnership",
+    "address": "325 E Grand River Ave, Suite 350, East Lansing, MI 48823",
+    "city": "East Lansing",
+    "region": "Region 7: South Central Michigan",
+    "latitude": 42.73475,
+    "longitude": -84.48009,
+    "description": "Venture creation subsidiary of the MSU Research Foundation and operator of the Lansing Regional SmartZone, turning Michigan State University technologies into funded startups.",
+    "application_url": "https://spartaninnovations.org/contact/",
+    "contact_email": "info@spartaninnovations.org",
+    "industry_specialties": [
+      "Advanced Manufacturing & Industry 4.0",
+      "AgTech, Food & Forestry",
+      "Main Street, Creative & Small Business",
+      "MedTech, Biotech & Life Sciences",
+      "Mobility, EV & Electrification",
+      "SaaS, AI & Enterprise Software"
+    ],
+    "specialized_equipment": [
+      "Media Studio & Podcasting Suite",
+      "Wet Labs & BSL-1/BSL-2 Suites"
+    ],
+    "services_and_curriculum": [
+      "Executive Mentorship & EIR Program",
+      "IP, Patent & Tech Transfer Clinics",
+      "SBIR/STTR & Non-Dilutive Grant Writing",
+      "Venture Fundraising & Pitch Coaching"
+    ],
+    "last_quarterly_scrape": "2026-10-21T21:57:02.995960+00:00"
+  },
+  {
+    "name": "Lakeshore Advantage / SURGE (Holland SmartZone)",
+    "slug": "lakeshore-advantage-surge",
+    "url": "https://www.lakeshoreadvantage.com/surge/",
+    "org_type": "State SmartZone",
+    "ownership": "Public-Private Partnership",
+    "address": "66 E 8th St, Suite 200, Holland, MI 49423",
+    "city": "Holland",
+    "region": "Region 4: West Michigan",
+    "latitude": 42.79012,
+    "longitude": -86.10451,
+    "description": "West Michigan lakeshore MEDC SmartZone and Next Center innovation hub serving Ottawa and Allegan counties with hardware/manufacturing startup incubation and Future Factory programming.",
+    "application_url": "https://www.lakeshoreadvantage.com/surge/",
+    "contact_email": "info@lakeshoreadvantage.com",
+    "industry_specialties": [
+      "Advanced Manufacturing & Industry 4.0",
+      "AgTech, Food & Forestry",
+      "CleanTech, Energy & Blue Economy",
+      "Main Street, Creative & Small Business",
+      "Mobility, EV & Electrification",
+      "SaaS, AI & Enterprise Software"
+    ],
+    "specialized_equipment": [
+      "3D Printing & Additive Manufacturing",
+      "Electronics & IoT Prototyping Lab"
+    ],
+    "services_and_curriculum": [
+      "Customer Discovery & NSF I-Corps",
+      "Executive Mentorship & EIR Program",
+      "Hardware DFM & Supply Chain Advisory",
+      "IP, Patent & Tech Transfer Clinics",
+      "Venture Fundraising & Pitch Coaching"
+    ],
+    "last_quarterly_scrape": "2026-10-21T21:57:03.158412+00:00"
+  },
+  {
+    "name": "Muskegon Innovation Hub at GVSU (Muskegon SmartZone)",
+    "slug": "muskegon-innovation-hub-gvsu",
+    "url": "https://www.gvsu.edu/mihub/",
+    "org_type": "State SmartZone",
+    "ownership": "Public-Private Partnership",
+    "address": "200 Viridian Dr, Muskegon, MI 49440",
+    "city": "Muskegon",
+    "region": "Region 4: West Michigan",
+    "latitude": 43.23891,
+    "longitude": -86.24831,
+    "description": "Grand Valley State University's MEDC SmartZone business incubator on Muskegon Lake, providing wet/dry R&D space, Lake Hawks pitch competitions, and coworking for lakeshore founders.",
+    "application_url": "https://www.gvsu.edu/mihub/business-incubation-2.htm",
+    "contact_email": "mihub@gvsu.edu",
+    "industry_specialties": [
+      "Advanced Manufacturing & Industry 4.0",
+      "AgTech, Food & Forestry",
+      "CleanTech, Energy & Blue Economy",
+      "Main Street, Creative & Small Business",
+      "Mobility, EV & Electrification",
+      "SaaS, AI & Enterprise Software"
+    ],
+    "specialized_equipment": [
+      "3D Printing & Additive Manufacturing",
+      "Media Studio & Podcasting Suite"
+    ],
+    "services_and_curriculum": [
+      "Customer Discovery & NSF I-Corps",
+      "Executive Mentorship & EIR Program",
+      "IP, Patent & Tech Transfer Clinics",
+      "Venture Fundraising & Pitch Coaching"
+    ],
+    "last_quarterly_scrape": "2026-10-21T21:57:01.159934+00:00"
+  },
+  {
+    "name": "MTEC SmartZone (Houghton / Hancock SmartZone)",
+    "slug": "mtec-smartzone-houghton",
+    "url": "https://www.mtecsmartzone.com",
+    "org_type": "State SmartZone",
+    "ownership": "Public-Private Partnership",
+    "address": "1402 E Sharon Ave, Houghton, MI 49931",
+    "city": "Houghton",
+    "region": "Region 1: Upper Peninsula",
+    "latitude": 47.11284,
+    "longitude": -88.54592,
+    "description": "MTEC SmartZone partnering with Michigan Technological University to commercialize deep-tech research across three Houghton facilities, offering wet labs, Braveworks, and SmartStart accelerators.",
+    "application_url": "https://www.mtecsmartzone.com/programs/",
+    "contact_email": "info@mtecsmartzone.com",
+    "industry_specialties": [
+      "Advanced Manufacturing & Industry 4.0",
+      "CleanTech, Energy & Blue Economy",
+      "Defense, Aerospace & Dual-Use",
+      "MedTech, Biotech & Life Sciences"
+    ],
+    "specialized_equipment": [
+      "3D Printing & Additive Manufacturing",
+      "Electronics & IoT Prototyping Lab",
+      "Wet Labs & BSL-1/BSL-2 Suites"
+    ],
+    "services_and_curriculum": [
+      "Customer Discovery & NSF I-Corps",
+      "Executive Mentorship & EIR Program",
+      "IP, Patent & Tech Transfer Clinics",
+      "SBIR/STTR & Non-Dilutive Grant Writing"
+    ],
+    "last_quarterly_scrape": "2026-10-21T21:57:00.150088+00:00"
+  },
+  {
+    "name": "Innovate Marquette SmartZone (Marquette SmartZone)",
+    "slug": "innovate-marquette-smartzone",
+    "url": "https://www.innovatemarquette.org",
+    "org_type": "State SmartZone",
+    "ownership": "Public-Private Partnership",
+    "address": "101 W Washington St, Suite 8, Marquette, MI 49855",
+    "city": "Marquette",
+    "region": "Region 1: Upper Peninsula",
+    "latitude": 46.54351,
+    "longitude": -87.39541,
+    "description": "Upper Peninsula MEDC SmartZone partnering with Northern Michigan University (Invent@NMU) to accelerate outdoor recreation tech, climate tech, sustainability, and rural innovation.",
+    "application_url": "https://www.innovatemarquette.org/apply/",
+    "contact_email": "info@innovatemarquette.org",
+    "industry_specialties": [
+      "Advanced Manufacturing & Industry 4.0",
+      "AgTech, Food & Forestry",
+      "CleanTech, Energy & Blue Economy",
+      "Main Street, Creative & Small Business",
+      "Mobility, EV & Electrification",
+      "SaaS, AI & Enterprise Software"
+    ],
+    "specialized_equipment": [
+      "3D Printing & Additive Manufacturing",
+      "Electronics & IoT Prototyping Lab",
+      "Media Studio & Podcasting Suite"
+    ],
+    "services_and_curriculum": [
+      "Customer Discovery & NSF I-Corps",
+      "Executive Mentorship & EIR Program",
+      "IP, Patent & Tech Transfer Clinics",
+      "Venture Fundraising & Pitch Coaching"
+    ],
+    "last_quarterly_scrape": "2026-10-21T21:57:05.530894+00:00"
+  },
+  {
+    "name": "Sault Ste. Marie SmartZone & EDC Industrial Incubator",
+    "slug": "sault-ste-marie-smartzone",
+    "url": "https://saultedc.com",
+    "org_type": "State SmartZone",
+    "ownership": "Public-Private Partnership",
+    "address": "2345 Meridian St, Sault Ste. Marie, MI 49783",
+    "city": "Sault Ste. Marie",
+    "region": "Region 1: Upper Peninsula",
+    "latitude": 46.47912,
+    "longitude": -84.36421,
+    "description": "Eastern Upper Peninsula MEDC SmartZone and Industrial Incubator operated by the Sault Ste. Marie Economic Development Corporation in collaboration with Lake Superior State University.",
+    "application_url": "https://saultedc.com/smartzone/",
+    "contact_email": "edc@saultcity.com",
+    "industry_specialties": [
+      "Advanced Manufacturing & Industry 4.0",
+      "CleanTech, Energy & Blue Economy",
+      "Defense, Aerospace & Dual-Use",
+      "Main Street, Creative & Small Business",
+      "Mobility, EV & Electrification",
+      "SaaS, AI & Enterprise Software"
+    ],
+    "specialized_equipment": [
+      "3D Printing & Additive Manufacturing",
+      "CNC Machining & Metal Fabrication"
+    ],
+    "services_and_curriculum": [
+      "Executive Mentorship & EIR Program",
+      "Financial Modeling & Accounting Readiness",
+      "Hardware DFM & Supply Chain Advisory",
+      "IP, Patent & Tech Transfer Clinics"
+    ],
+    "last_quarterly_scrape": "2026-10-21T21:57:03.815702+00:00"
+  },
+  {
+    "name": "CMURC Mount Pleasant (Central Michigan University Research Corporation SmartZone)",
+    "slug": "cmurc-mount-pleasant",
+    "url": "https://www.cmurc.com",
+    "org_type": "State SmartZone",
+    "ownership": "Public-Private Partnership",
+    "address": "2625 Denison Dr, Suite D, Mt Pleasant, MI 48858",
+    "city": "Mount Pleasant",
+    "region": "Region 5: East Central Michigan",
+    "latitude": 43.57541,
+    "longitude": -84.77412,
+    "description": "Central Michigan University's MEDC SmartZone co-working and startup accelerator running the RightTrack program across the Great Lakes Bay Region.",
+    "application_url": "https://www.cmurc.com/programs",
+    "contact_email": "info@cmurc.com",
+    "industry_specialties": [
+      "AgTech, Food & Forestry",
+      "Main Street, Creative & Small Business",
+      "MedTech, Biotech & Life Sciences",
+      "Mobility, EV & Electrification",
+      "SaaS, AI & Enterprise Software"
+    ],
+    "specialized_equipment": [
+      "3D Printing & Additive Manufacturing",
+      "Media Studio & Podcasting Suite"
+    ],
+    "services_and_curriculum": [
+      "Customer Discovery & NSF I-Corps",
+      "Executive Mentorship & EIR Program",
+      "IP, Patent & Tech Transfer Clinics",
+      "Venture Fundraising & Pitch Coaching"
+    ],
+    "last_quarterly_scrape": "2026-10-21T21:57:04.580746+00:00"
+  },
+  {
+    "name": "CMURC Great Lakes Bay Region SmartZone (Bay City / Saginaw / Midland)",
+    "slug": "cmurc-great-lakes-bay-smartzone",
+    "url": "https://www.cmurc.com/locations",
+    "org_type": "State SmartZone",
+    "ownership": "Public-Private Partnership",
+    "address": "900 Water St, Bay City, MI 48708",
+    "city": "Bay City",
+    "region": "Region 5: East Central Michigan",
+    "latitude": 43.59512,
+    "longitude": -83.88941,
+    "description": "Great Lakes Bay Region MEDC SmartZone hub operated by CMURC across Bay City, Saginaw, and Midland, connecting chemical/materials science and hardware founders to regional industry.",
+    "application_url": "https://www.cmurc.com/programs",
+    "contact_email": "baycity@cmurc.com",
+    "industry_specialties": [
+      "Advanced Manufacturing & Industry 4.0",
+      "AgTech, Food & Forestry",
+      "CleanTech, Energy & Blue Economy"
+    ],
+    "specialized_equipment": [
+      "3D Printing & Additive Manufacturing",
+      "Media Studio & Podcasting Suite"
+    ],
+    "services_and_curriculum": [
+      "Customer Discovery & NSF I-Corps",
+      "Executive Mentorship & EIR Program",
+      "IP, Patent & Tech Transfer Clinics",
+      "Venture Fundraising & Pitch Coaching"
+    ],
+    "last_quarterly_scrape": "2026-10-21T21:57:06.490034+00:00"
+  },
+  {
+    "name": "20Fathoms (Traverse City / Northwest Michigan SmartZone Hub)",
+    "slug": "20fathoms-traverse-city",
+    "url": "https://20fathoms.org",
+    "org_type": "State SmartZone",
+    "ownership": "Public-Private Partnership",
+    "address": "10850 E Traverse Hwy, Suite 4400, Traverse City, MI 49684",
+    "city": "Traverse City",
+    "region": "Region 2: Northwest Michigan",
+    "latitude": 44.78241,
+    "longitude": -85.64123,
+    "description": "Northwest Michigan's flagship tech startup incubator and MEDC entrepreneurial hub in Traverse City, specializing in Blue Economy, freshwater tech, SaaS, and northern Michigan capital access.",
+    "application_url": "https://20fathoms.org/startup-services/",
+    "contact_email": "info@20fathoms.org",
+    "industry_specialties": [
+      "AgTech, Food & Forestry",
+      "CleanTech, Energy & Blue Economy",
+      "Main Street, Creative & Small Business",
+      "MedTech, Biotech & Life Sciences",
+      "Mobility, EV & Electrification",
+      "SaaS, AI & Enterprise Software"
+    ],
+    "specialized_equipment": [
+      "Electronics & IoT Prototyping Lab",
+      "Media Studio & Podcasting Suite"
+    ],
+    "services_and_curriculum": [
+      "Customer Discovery & NSF I-Corps",
+      "Executive Mentorship & EIR Program",
+      "IP, Patent & Tech Transfer Clinics",
+      "SBIR/STTR & Non-Dilutive Grant Writing",
+      "Venture Fundraising & Pitch Coaching"
+    ],
+    "last_quarterly_scrape": "2026-10-21T21:57:06.218273+00:00"
+  },
+  {
+    "name": "Adrian-Tecumseh SmartZone & Launch Lenawee (Adrian Armory)",
+    "slug": "adrian-tecumseh-smartzone-armory",
+    "url": "https://atsmartzone.com",
+    "org_type": "State SmartZone",
+    "ownership": "Public-Private Partnership",
+    "address": "230 W Maumee St, Adrian, MI 49221",
+    "city": "Adrian",
+    "region": "Region 9: Southeast Michigan",
+    "latitude": 41.89754,
+    "longitude": -84.03981,
+    "description": "MEDC SmartZone in Lenawee County anchored at the historic Adrian Armory Community Center, housing Launch Lenawee, commercial kitchen incubation, and tech entrepreneurship support.",
+    "application_url": "https://atsmartzone.com/programs/",
+    "contact_email": "info@atsmartzone.com",
+    "industry_specialties": [
+      "Advanced Manufacturing & Industry 4.0",
+      "AgTech, Food & Forestry",
+      "Main Street, Creative & Small Business",
+      "Mobility, EV & Electrification",
+      "SaaS, AI & Enterprise Software"
+    ],
+    "specialized_equipment": [
+      "Commercial Kitchen & Food Processing",
+      "Media Studio & Podcasting Suite"
+    ],
+    "services_and_curriculum": [
+      "Customer Discovery & NSF I-Corps",
+      "Executive Mentorship & EIR Program",
+      "Financial Modeling & Accounting Readiness",
+      "Hardware DFM & Supply Chain Advisory",
+      "IP, Patent & Tech Transfer Clinics"
+    ],
+    "last_quarterly_scrape": "2026-10-21T21:57:05.789052+00:00"
+  },
+  {
+    "name": "Battle Creek SmartZone & Battle Creek Unlimited (Aviation & Defense Hub)",
+    "slug": "battle-creek-smartzone-bcu",
+    "url": "https://www.bcunlimited.org",
+    "org_type": "State SmartZone",
+    "ownership": "Public-Private Partnership",
+    "address": "4950 W Dickman Rd, Suite A-1, Battle Creek, MI 49037",
+    "city": "Battle Creek",
+    "region": "Region 8: Southwest Michigan",
+    "latitude": 42.32381,
+    "longitude": -85.25314,
+    "description": "Battle Creek's aviation, defense, UAV/drone, and food processing MEDC SmartZone adjacent to W.K. Kellogg Airport and Western Michigan University College of Aviation.",
+    "application_url": "https://www.bcunlimited.org/small-business/",
+    "contact_email": "info@bcunlimited.org",
+    "industry_specialties": [
+      "Advanced Manufacturing & Industry 4.0",
+      "AgTech, Food & Forestry",
+      "Defense, Aerospace & Dual-Use",
+      "Main Street, Creative & Small Business",
+      "Mobility, EV & Electrification",
+      "SaaS, AI & Enterprise Software"
+    ],
+    "specialized_equipment": [
+      "Autonomous & Mobility Testing Track",
+      "Commercial Kitchen & Food Processing"
+    ],
+    "services_and_curriculum": [
+      "Executive Mentorship & EIR Program",
+      "Hardware DFM & Supply Chain Advisory",
+      "IP, Patent & Tech Transfer Clinics",
+      "SBIR/STTR & Non-Dilutive Grant Writing"
+    ],
+    "last_quarterly_scrape": "2026-10-21T21:57:07.343541+00:00"
+  },
+  {
+    "name": "Ferris Wheel Innovation Center & 100K Ideas (Flint SmartZone Hub)",
+    "slug": "ferris-wheel-100k-ideas-flint",
+    "url": "https://www.100kideas.org",
+    "org_type": "State SmartZone",
+    "ownership": "Public-Private Partnership",
+    "address": "615 S Saginaw St, Flint, MI 48502",
+    "city": "Flint",
+    "region": "Region 6: East Michigan",
+    "latitude": 43.01381,
+    "longitude": -83.68952,
+    "description": "Downtown Flint's 7-story innovation center housing 100K Ideas, Skypoint Ventures, and U-M Flint Innovation Incubator, providing CAD/prototyping, market validation, and pitch competitions.",
+    "application_url": "https://www.100kideas.org/submit-an-idea",
+    "contact_email": "info@100kideas.org",
+    "industry_specialties": [
+      "Advanced Manufacturing & Industry 4.0",
+      "Main Street, Creative & Small Business",
+      "Mobility, EV & Electrification",
+      "SaaS, AI & Enterprise Software"
+    ],
+    "specialized_equipment": [
+      "3D Printing & Additive Manufacturing",
+      "Media Studio & Podcasting Suite"
+    ],
+    "services_and_curriculum": [
+      "Customer Discovery & NSF I-Corps",
+      "Executive Mentorship & EIR Program",
+      "Hardware DFM & Supply Chain Advisory",
+      "IP, Patent & Tech Transfer Clinics",
+      "Venture Fundraising & Pitch Coaching"
+    ],
+    "last_quarterly_scrape": "2026-10-21T21:57:07.677018+00:00"
+  },
+  {
+    "name": "The Underground / St. Clair County EDA SmartZone (Port Huron)",
+    "slug": "underground-port-huron-smartzone",
+    "url": "https://www.edascc.com/the-underground/",
+    "org_type": "State SmartZone",
+    "ownership": "Public-Private Partnership",
+    "address": "100 McMorran Blvd, Suite B, Port Huron, MI 48060",
+    "city": "Port Huron",
+    "region": "Region 6: East Michigan",
+    "latitude": 42.97489,
+    "longitude": -82.42419,
+    "description": "Blue Water region business incubator and SmartZone initiative operated by the Economic Development Alliance of St. Clair County, offering co-working, pitch competitions, and mentorship.",
+    "application_url": "https://www.edascc.com/the-underground/",
+    "contact_email": "info@edascc.com",
+    "industry_specialties": [
+      "Advanced Manufacturing & Industry 4.0",
+      "CleanTech, Energy & Blue Economy",
+      "Main Street, Creative & Small Business",
+      "SaaS, AI & Enterprise Software"
+    ],
+    "specialized_equipment": [
+      "Media Studio & Podcasting Suite"
+    ],
+    "services_and_curriculum": [
+      "Executive Mentorship & EIR Program",
+      "Financial Modeling & Accounting Readiness",
+      "IP, Patent & Tech Transfer Clinics",
+      "Venture Fundraising & Pitch Coaching"
+    ],
+    "last_quarterly_scrape": "2026-10-21T21:57:08.112557+00:00"
+  },
+  {
+    "name": "Lean Rocket Lab (Jackson SmartZone & Manufacturing Tech Accelerator)",
+    "slug": "lean-rocket-lab-jackson",
+    "url": "https://www.leanrocketlab.org",
+    "org_type": "State SmartZone",
+    "ownership": "Public-Private Partnership",
+    "address": "133 W Michigan Ave, Jackson, MI 49201",
+    "city": "Jackson",
+    "region": "Region 9: Southeast Michigan",
+    "latitude": 42.24765,
+    "longitude": -84.40792,
+    "description": "Downtown Jackson's Industry 4.0, manufacturing tech, and hardware incubator/accelerator connecting startups directly with South Central Michigan's precision manufacturing supply chain.",
+    "application_url": "https://www.leanrocketlab.org/programs",
+    "contact_email": "info@leanrocketlab.org",
+    "industry_specialties": [
+      "Advanced Manufacturing & Industry 4.0",
+      "AgTech, Food & Forestry",
+      "Main Street, Creative & Small Business",
+      "Mobility, EV & Electrification",
+      "SaaS, AI & Enterprise Software"
+    ],
+    "specialized_equipment": [
+      "3D Printing & Additive Manufacturing",
+      "Electronics & IoT Prototyping Lab"
+    ],
+    "services_and_curriculum": [
+      "Customer Discovery & NSF I-Corps",
+      "Executive Mentorship & EIR Program",
+      "Hardware DFM & Supply Chain Advisory",
+      "IP, Patent & Tech Transfer Clinics",
+      "Venture Fundraising & Pitch Coaching"
+    ],
+    "last_quarterly_scrape": "2026-10-21T21:57:05.544654+00:00"
+  },
+  {
+    "name": "U-M Innovation Partnerships (University of Michigan Tech Transfer)",
+    "slug": "um-innovation-partnerships",
+    "url": "https://innovationpartnerships.umich.edu",
+    "org_type": "University Incubator",
+    "ownership": "University",
+    "address": "1600 Huron Pkwy, Bldg 520, 2nd Floor, Ann Arbor, MI 48109",
+    "city": "Ann Arbor",
+    "region": "Region 9: Southeast Michigan",
+    "latitude": 42.29912,
+    "longitude": -83.70589,
+    "description": "University of Michigan's central nexus for research commercialization, operating the Venture Center, Accelerate Blue Fund, MTRAC Life Sciences/Transportation hubs, and North Campus Research Complex wet labs.",
+    "application_url": "https://innovationpartnerships.umich.edu/for-inventors/",
+    "contact_email": "innovationpartnerships@umich.edu",
+    "industry_specialties": [
+      "CleanTech, Energy & Blue Economy",
+      "MedTech, Biotech & Life Sciences",
+      "Mobility, EV & Electrification",
+      "SaaS, AI & Enterprise Software"
+    ],
+    "specialized_equipment": [
+      "Autonomous & Mobility Testing Track",
+      "Cleanroom & Microelectronics Facility",
+      "High-Performance Computing & AI Cluster",
+      "Wet Labs & BSL-1/BSL-2 Suites"
+    ],
+    "services_and_curriculum": [
+      "Customer Discovery & NSF I-Corps",
+      "FDA Regulatory & Clinical Pathways",
+      "IP, Patent & Tech Transfer Clinics",
+      "SBIR/STTR & Non-Dilutive Grant Writing",
+      "Venture Fundraising & Pitch Coaching"
+    ],
+    "last_quarterly_scrape": "2026-10-21T21:57:05.951988+00:00"
+  },
+  {
+    "name": "Desai Accelerator (University of Michigan Ross & CoE)",
+    "slug": "desai-accelerator-umich",
+    "url": "https://desaiaccelerator.umich.edu",
+    "org_type": "University Incubator",
+    "ownership": "University",
+    "address": "500 E Washington St, Suite 200, Ann Arbor, MI 48104",
+    "city": "Ann Arbor",
+    "region": "Region 9: Southeast Michigan",
+    "latitude": 42.28041,
+    "longitude": -83.74292,
+    "description": "Joint accelerator between the University of Michigan Stephen M. Ross School of Business and College of Engineering, providing seed investment, dedicated interns, and intensive mentorship.",
+    "application_url": "https://desaiaccelerator.umich.edu/apply/",
+    "contact_email": "desaiaccelerator@umich.edu",
+    "industry_specialties": [
+      "Main Street, Creative & Small Business",
+      "MedTech, Biotech & Life Sciences",
+      "Mobility, EV & Electrification",
+      "SaaS, AI & Enterprise Software"
+    ],
+    "specialized_equipment": [
+      "Media Studio & Podcasting Suite"
+    ],
+    "services_and_curriculum": [
+      "Customer Discovery & NSF I-Corps",
+      "Executive Mentorship & EIR Program",
+      "IP, Patent & Tech Transfer Clinics",
+      "Venture Fundraising & Pitch Coaching"
+    ],
+    "last_quarterly_scrape": "2026-10-21T21:57:08.546319+00:00"
+  },
+  {
+    "name": "Zell Lurie Institute for Entrepreneurial Studies (U-M Ross)",
+    "slug": "zell-lurie-institute-umich",
+    "url": "https://zli.umich.edu",
+    "org_type": "University Incubator",
+    "ownership": "University",
+    "address": "701 Tappan Ave, Ann Arbor, MI 48109",
+    "city": "Ann Arbor",
+    "region": "Region 9: Southeast Michigan",
+    "latitude": 42.27251,
+    "longitude": -83.73761,
+    "description": "Premier entrepreneurship institute at U-M Ross hosting the Michigan Business Challenge, Wolverine Venture Fund, Zell Entrepreneurs, and Commercialization Fund.",
+    "application_url": "https://zli.umich.edu/programs-funds",
+    "contact_email": "zli.info@umich.edu",
+    "industry_specialties": [
+      "CleanTech, Energy & Blue Economy",
+      "MedTech, Biotech & Life Sciences",
+      "SaaS, AI & Enterprise Software"
+    ],
+    "specialized_equipment": [],
+    "services_and_curriculum": [
+      "Executive Mentorship & EIR Program",
+      "Financial Modeling & Accounting Readiness",
+      "IP, Patent & Tech Transfer Clinics",
+      "Venture Fundraising & Pitch Coaching"
+    ],
+    "last_quarterly_scrape": "2026-10-21T21:57:06.961910+00:00"
+  },
+  {
+    "name": "MSU Burgess Institute for Entrepreneurship & Innovation",
+    "slug": "msu-burgess-institute",
+    "url": "https://entrepreneurship.msu.edu",
+    "org_type": "University Incubator",
+    "ownership": "University",
+    "address": "325 E Grand River Ave, Suite 300, East Lansing, MI 48823",
+    "city": "East Lansing",
+    "region": "Region 7: South Central Michigan",
+    "latitude": 42.73475,
+    "longitude": -84.48009,
+    "description": "Michigan State University's cross-campus venture creation hub operating the Hatch incubator, Discovery Hub, and Burgess New Venture Challenge.",
+    "application_url": "https://entrepreneurship.msu.edu/programs",
+    "contact_email": "hello@entrepreneurship.msu.edu",
+    "industry_specialties": [
+      "AgTech, Food & Forestry",
+      "Main Street, Creative & Small Business",
+      "Mobility, EV & Electrification",
+      "SaaS, AI & Enterprise Software"
+    ],
+    "specialized_equipment": [
+      "3D Printing & Additive Manufacturing",
+      "Media Studio & Podcasting Suite"
+    ],
+    "services_and_curriculum": [
+      "Customer Discovery & NSF I-Corps",
+      "Executive Mentorship & EIR Program",
+      "IP, Patent & Tech Transfer Clinics",
+      "Venture Fundraising & Pitch Coaching"
+    ],
+    "last_quarterly_scrape": "2026-10-21T21:57:14.178382+00:00"
+  },
+  {
+    "name": "Michigan Tech Husky Innovate & Pavlis Honors College",
+    "slug": "mtu-husky-innovate",
+    "url": "https://www.mtu.edu/huskyinnovate/",
+    "org_type": "University Incubator",
+    "ownership": "University",
+    "address": "1400 Townsend Dr, Houghton, MI 49931",
+    "city": "Houghton",
+    "region": "Region 1: Upper Peninsula",
+    "latitude": 47.11891,
+    "longitude": -88.54712,
+    "description": "Michigan Technological University's innovation and entrepreneurship resource hub running NSF I-Corps, Bob Mark Business Model Pitch Competition, and Alley Makerspace.",
+    "application_url": "https://www.mtu.edu/huskyinnovate/programs/",
+    "contact_email": "huskyinnovate@mtu.edu",
+    "industry_specialties": [
+      "Advanced Manufacturing & Industry 4.0",
+      "CleanTech, Energy & Blue Economy",
+      "MedTech, Biotech & Life Sciences"
+    ],
+    "specialized_equipment": [
+      "3D Printing & Additive Manufacturing",
+      "CNC Machining & Metal Fabrication",
+      "Electronics & IoT Prototyping Lab"
+    ],
+    "services_and_curriculum": [
+      "Customer Discovery & NSF I-Corps",
+      "IP, Patent & Tech Transfer Clinics",
+      "Venture Fundraising & Pitch Coaching"
+    ],
+    "last_quarterly_scrape": "2026-10-21T21:57:08.865209+00:00"
+  },
+  {
+    "name": "Western Michigan University Bronco Innovation & Starting Gate",
+    "slug": "wmu-bronco-innovation-starting-gate",
+    "url": "https://wmich.edu/entrepreneurship",
+    "org_type": "University Incubator",
+    "ownership": "University",
+    "address": "1903 W Michigan Ave, Kalamazoo, MI 49008",
+    "city": "Kalamazoo",
+    "region": "Region 8: Southwest Michigan",
+    "latitude": 42.28315,
+    "longitude": -85.61421,
+    "description": "Western Michigan University's Haworth College of Business student and faculty startup accelerator (Starting Gate) and MTRAC Life Sciences/MedTech partner.",
+    "application_url": "https://wmich.edu/entrepreneurship/starting-gate",
+    "contact_email": "hcb-entrepreneurship@wmich.edu",
+    "industry_specialties": [
+      "Main Street, Creative & Small Business",
+      "MedTech, Biotech & Life Sciences",
+      "Mobility, EV & Electrification",
+      "SaaS, AI & Enterprise Software"
+    ],
+    "specialized_equipment": [
+      "3D Printing & Additive Manufacturing",
+      "Media Studio & Podcasting Suite"
+    ],
+    "services_and_curriculum": [
+      "Customer Discovery & NSF I-Corps",
+      "Executive Mentorship & EIR Program",
+      "IP, Patent & Tech Transfer Clinics",
+      "Venture Fundraising & Pitch Coaching"
+    ],
+    "last_quarterly_scrape": "2026-10-21T21:57:09.587610+00:00"
+  },
+  {
+    "name": "Grand Valley State University Richard M. DeVos Center for Entrepreneurship & Innovation (CEI)",
+    "slug": "gvsu-cei-grand-rapids",
+    "url": "https://www.gvsu.edu/cei/",
+    "org_type": "University Incubator",
+    "ownership": "University",
+    "address": "50 Front Ave SW, Grand Rapids, MI 49504",
+    "city": "Grand Rapids",
+    "region": "Region 4: West Michigan",
+    "latitude": 42.96391,
+    "longitude": -85.67751,
+    "description": "GVSU Seidman College of Business entrepreneurship center and Applied Medical Device Institute (AMDI) partner supporting West Michigan founders with prototyping and clinical validation.",
+    "application_url": "https://www.gvsu.edu/cei/",
+    "contact_email": "cei@gvsu.edu",
+    "industry_specialties": [
+      "Advanced Manufacturing & Industry 4.0",
+      "Defense, Aerospace & Dual-Use",
+      "Main Street, Creative & Small Business",
+      "MedTech, Biotech & Life Sciences",
+      "Mobility, EV & Electrification",
+      "SaaS, AI & Enterprise Software"
+    ],
+    "specialized_equipment": [
+      "3D Printing & Additive Manufacturing",
+      "Electronics & IoT Prototyping Lab"
+    ],
+    "services_and_curriculum": [
+      "Executive Mentorship & EIR Program",
+      "FDA Regulatory & Clinical Pathways",
+      "IP, Patent & Tech Transfer Clinics",
+      "Venture Fundraising & Pitch Coaching"
+    ],
+    "last_quarterly_scrape": "2026-10-21T21:57:08.285540+00:00"
+  },
+  {
+    "name": "Newlab at Michigan Central",
+    "slug": "newlab-michigan-central",
+    "url": "https://www.newlab.com/locations/detroit",
+    "org_type": "Private Accelerator",
+    "ownership": "Private",
+    "address": "2050 15th St, Detroit, MI 48216",
+    "city": "Detroit",
+    "region": "Region 10: Detroit Metro",
+    "latitude": 42.32981,
+    "longitude": -83.07612,
+    "description": "Deep-tech mobility, energy, and advanced materials innovation center inside the restored Book Depository at Michigan Central in Corktown Detroit, featuring world-class robotics, CNC, battery, and drone testing zones.",
+    "application_url": "https://www.newlab.com/apply",
+    "contact_email": "detroit@newlab.com",
+    "industry_specialties": [
+      "Advanced Manufacturing & Industry 4.0",
+      "CleanTech, Energy & Blue Economy",
+      "Defense, Aerospace & Dual-Use",
+      "Main Street, Creative & Small Business",
+      "Mobility, EV & Electrification",
+      "SaaS, AI & Enterprise Software"
+    ],
+    "specialized_equipment": [
+      "3D Printing & Additive Manufacturing",
+      "Autonomous & Mobility Testing Track",
+      "CNC Machining & Metal Fabrication",
+      "Electronics & IoT Prototyping Lab"
+    ],
+    "services_and_curriculum": [
+      "Executive Mentorship & EIR Program",
+      "Hardware DFM & Supply Chain Advisory",
+      "IP, Patent & Tech Transfer Clinics",
+      "Venture Fundraising & Pitch Coaching"
+    ],
+    "last_quarterly_scrape": "2026-10-21T21:57:08.865100+00:00"
+  },
+  {
+    "name": "Bamboo Detroit",
+    "slug": "bamboo-detroit",
+    "url": "https://www.bamboodetroit.com",
+    "org_type": "Coworking/Makerspace",
+    "ownership": "Private",
+    "address": "1420 Washington Blvd, Suite 301, Detroit, MI 48226",
+    "city": "Detroit",
+    "region": "Region 10: Detroit Metro",
+    "latitude": 42.33389,
+    "longitude": -83.05121,
+    "description": "Downtown Detroit's premier startup coworking hub and community incubator hosting Detroit Startup Week, pitch nights, venture office hours, and founder salons.",
+    "application_url": "https://www.bamboodetroit.com/locations/detroit",
+    "contact_email": "info@bamboodetroit.com",
+    "industry_specialties": [
+      "Main Street, Creative & Small Business",
+      "Mobility, EV & Electrification",
+      "SaaS, AI & Enterprise Software"
+    ],
+    "specialized_equipment": [
+      "Media Studio & Podcasting Suite"
+    ],
+    "services_and_curriculum": [
+      "Executive Mentorship & EIR Program",
+      "IP, Patent & Tech Transfer Clinics",
+      "Venture Fundraising & Pitch Coaching"
+    ],
+    "last_quarterly_scrape": "2026-10-21T21:57:09.813207+00:00"
+  },
+  {
+    "name": "Bamboo Royal Oak",
+    "slug": "bamboo-royal-oak",
+    "url": "https://www.bamboodetroit.com/locations/royal-oak",
+    "org_type": "Coworking/Makerspace",
+    "ownership": "Private",
+    "address": "220 S Main St, Royal Oak, MI 48067",
+    "city": "Royal Oak",
+    "region": "Region 10: Detroit Metro",
+    "latitude": 42.48791,
+    "longitude": -83.14441,
+    "description": "Oakland County tech coworking and startup incubation hub in downtown Royal Oak, hosting AI/SaaS founder events, podcasting studios, and investor workshops.",
+    "application_url": "https://www.bamboodetroit.com/locations/royal-oak",
+    "contact_email": "royaloak@bamboodetroit.com",
+    "industry_specialties": [
+      "Main Street, Creative & Small Business",
+      "Mobility, EV & Electrification",
+      "SaaS, AI & Enterprise Software"
+    ],
+    "specialized_equipment": [
+      "Media Studio & Podcasting Suite"
+    ],
+    "services_and_curriculum": [
+      "Executive Mentorship & EIR Program",
+      "IP, Patent & Tech Transfer Clinics",
+      "Venture Fundraising & Pitch Coaching"
+    ],
+    "last_quarterly_scrape": "2026-10-21T21:57:09.966160+00:00"
+  },
+  {
+    "name": "Bamboo Ann Arbor",
+    "slug": "bamboo-ann-arbor",
+    "url": "https://www.bamboodetroit.com/locations/ann-arbor",
+    "org_type": "Coworking/Makerspace",
+    "ownership": "Private",
+    "address": "200 S First St, Ann Arbor, MI 48104",
+    "city": "Ann Arbor",
+    "region": "Region 9: Southeast Michigan",
+    "latitude": 42.27981,
+    "longitude": -83.75142,
+    "description": "Ann Arbor startup coworking and community hub in downtown Ann Arbor supporting tech founders, remote teams, and venture events.",
+    "application_url": "https://www.bamboodetroit.com/locations/ann-arbor",
+    "contact_email": "annarbor@bamboodetroit.com",
+    "industry_specialties": [
+      "AgTech, Food & Forestry",
+      "CleanTech, Energy & Blue Economy",
+      "Main Street, Creative & Small Business",
+      "MedTech, Biotech & Life Sciences",
+      "Mobility, EV & Electrification",
+      "SaaS, AI & Enterprise Software"
+    ],
+    "specialized_equipment": [
+      "Media Studio & Podcasting Suite"
+    ],
+    "services_and_curriculum": [
+      "Executive Mentorship & EIR Program",
+      "IP, Patent & Tech Transfer Clinics",
+      "Venture Fundraising & Pitch Coaching"
+    ],
+    "last_quarterly_scrape": "2026-10-21T21:57:10.966736+00:00"
+  },
+  {
+    "name": "Cahoots Ann Arbor",
+    "slug": "cahoots-ann-arbor",
+    "url": "https://cahoots.com",
+    "org_type": "Coworking/Makerspace",
+    "ownership": "Private",
+    "address": "206 E Huron St, Ann Arbor, MI 48104",
+    "city": "Ann Arbor",
+    "region": "Region 9: Southeast Michigan",
+    "latitude": 42.28141,
+    "longitude": -83.74631,
+    "description": "25,000-square-foot tech coworking campus in downtown Ann Arbor built by tech founders for high-growth software, AI, and cybersecurity startups.",
+    "application_url": "https://cahoots.com/membership/",
+    "contact_email": "hello@cahoots.com",
+    "industry_specialties": [
+      "AgTech, Food & Forestry",
+      "Main Street, Creative & Small Business",
+      "MedTech, Biotech & Life Sciences",
+      "Mobility, EV & Electrification",
+      "SaaS, AI & Enterprise Software"
+    ],
+    "specialized_equipment": [
+      "Media Studio & Podcasting Suite"
+    ],
+    "services_and_curriculum": [
+      "Executive Mentorship & EIR Program",
+      "IP, Patent & Tech Transfer Clinics",
+      "Venture Fundraising & Pitch Coaching"
+    ],
+    "last_quarterly_scrape": "2026-10-21T21:57:10.184113+00:00"
+  },
+  {
+    "name": "Plug and Play Detroit (Mobility & Automotive Innovation Hub)",
+    "slug": "plug-and-play-detroit",
+    "url": "https://www.plugandplaytechcenter.com/detroit/",
+    "org_type": "Private Accelerator",
+    "ownership": "Private",
+    "address": "2050 15th St, Detroit, MI 48216",
+    "city": "Detroit",
+    "region": "Region 10: Detroit Metro",
+    "latitude": 42.32981,
+    "longitude": -83.07612,
+    "description": "Detroit hub of Plug and Play Tech Center connecting mobility, electrification, software-defined vehicle, and Industry 4.0 startups with Tier-1 automotive OEMs and venture capital.",
+    "application_url": "https://www.plugandplaytechcenter.com/join/",
+    "contact_email": "detroit@pnptc.com",
+    "industry_specialties": [
+      "Advanced Manufacturing & Industry 4.0",
+      "Mobility, EV & Electrification",
+      "SaaS, AI & Enterprise Software"
+    ],
+    "specialized_equipment": [],
+    "services_and_curriculum": [
+      "Executive Mentorship & EIR Program",
+      "IP, Patent & Tech Transfer Clinics",
+      "Venture Fundraising & Pitch Coaching"
+    ],
+    "last_quarterly_scrape": "2026-10-21T21:57:11.367335+00:00"
+  },
+  {
+    "name": "Conquer Accelerator (MSU Research Foundation)",
+    "slug": "conquer-accelerator-msu",
+    "url": "https://conqueraccelerator.com",
+    "org_type": "Private Accelerator",
+    "ownership": "Public-Private Partnership",
+    "address": "325 E Grand River Ave, Suite 350, East Lansing, MI 48823",
+    "city": "East Lansing",
+    "region": "Region 7: South Central Michigan",
+    "latitude": 42.73475,
+    "longitude": -84.48009,
+    "description": "10-week intensive startup accelerator operated by the Michigan State University Research Foundation (Red Cedar Ventures) across East Lansing, Grand Rapids, and Flint, providing $20K+ in funding and 40+ mentors.",
+    "application_url": "https://conqueraccelerator.com/apply/",
+    "contact_email": "info@conqueraccelerator.com",
+    "industry_specialties": [
+      "Advanced Manufacturing & Industry 4.0",
+      "AgTech, Food & Forestry",
+      "Main Street, Creative & Small Business",
+      "MedTech, Biotech & Life Sciences",
+      "Mobility, EV & Electrification",
+      "SaaS, AI & Enterprise Software"
+    ],
+    "specialized_equipment": [
+      "Wet Labs & BSL-1/BSL-2 Suites"
+    ],
+    "services_and_curriculum": [
+      "Customer Discovery & NSF I-Corps",
+      "Executive Mentorship & EIR Program",
+      "FDA Regulatory & Clinical Pathways",
+      "IP, Patent & Tech Transfer Clinics",
+      "Venture Fundraising & Pitch Coaching"
+    ],
+    "last_quarterly_scrape": "2026-10-21T21:57:11.882374+00:00"
+  },
+  {
+    "name": "gener8tor Detroit / Michigan Accelerators (gBETA & Industry 4.0)",
+    "slug": "gener8tor-detroit-michigan",
+    "url": "https://www.gener8tor.com",
+    "org_type": "Private Accelerator",
+    "ownership": "Private",
+    "address": "440 Burroughs St, Detroit, MI 48202",
+    "city": "Detroit",
+    "region": "Region 10: Detroit Metro",
+    "latitude": 42.365314,
+    "longitude": -83.072592,
+    "description": "Nationally ranked venture accelerator running gBETA Detroit, gBETA MedTech, and Michigan Industry 4.0 Accelerator cohorts with concierge mentorship and investor swarms.",
+    "application_url": "https://www.gener8tor.com/accelerators",
+    "contact_email": "detroit@gener8tor.com",
+    "industry_specialties": [
+      "Advanced Manufacturing & Industry 4.0",
+      "AgTech, Food & Forestry",
+      "CleanTech, Energy & Blue Economy",
+      "Main Street, Creative & Small Business",
+      "MedTech, Biotech & Life Sciences",
+      "Mobility, EV & Electrification",
+      "SaaS, AI & Enterprise Software"
+    ],
+    "specialized_equipment": [],
+    "services_and_curriculum": [
+      "Customer Discovery & NSF I-Corps",
+      "Executive Mentorship & EIR Program",
+      "IP, Patent & Tech Transfer Clinics",
+      "Venture Fundraising & Pitch Coaching"
+    ],
+    "last_quarterly_scrape": "2026-10-21T21:57:10.726648+00:00"
+  },
+  {
+    "name": "InvestUP & Accelerate UP (Upper Peninsula Regional Hub)",
+    "slug": "investup-marquette",
+    "url": "https://www.investupmi.com",
+    "org_type": "Local/Regional Hub",
+    "ownership": "Public-Private Partnership",
+    "address": "109 W Baraga Ave, Suite C, Marquette, MI 49855",
+    "city": "Marquette",
+    "region": "Region 1: Upper Peninsula",
+    "latitude": 46.54189,
+    "longitude": -87.39412,
+    "description": "Lead regional economic development and venture catalysis organization spanning all 15 counties of Michigan's Upper Peninsula.",
+    "application_url": "https://www.investupmi.com/contact/",
+    "contact_email": "info@investupmi.com",
+    "industry_specialties": [
+      "Advanced Manufacturing & Industry 4.0",
+      "AgTech, Food & Forestry",
+      "CleanTech, Energy & Blue Economy",
+      "Defense, Aerospace & Dual-Use",
+      "MedTech, Biotech & Life Sciences",
+      "Mobility, EV & Electrification",
+      "SaaS, AI & Enterprise Software"
+    ],
+    "specialized_equipment": [
+      "3D Printing & Additive Manufacturing"
+    ],
+    "services_and_curriculum": [
+      "Executive Mentorship & EIR Program",
+      "Financial Modeling & Accounting Readiness",
+      "Hardware DFM & Supply Chain Advisory",
+      "IP, Patent & Tech Transfer Clinics",
+      "Venture Fundraising & Pitch Coaching"
+    ],
+    "last_quarterly_scrape": "2026-10-21T21:57:13.372112+00:00"
+  },
+  {
+    "name": "Ponyride Detroit (Social Enterprise & Makerspace Collective)",
+    "slug": "ponyride-detroit",
+    "url": "https://www.ponyride.org",
+    "org_type": "Coworking/Makerspace",
+    "ownership": "Private",
+    "address": "1401 Vermont St, Detroit, MI 48216",
+    "city": "Detroit",
+    "region": "Region 10: Detroit Metro",
+    "latitude": 42.32641,
+    "longitude": -83.06812,
+    "description": "Detroit makerspace, small-batch manufacturing incubator, and creative artisan collective providing woodshop, textile, metal fabrication, and design education.",
+    "application_url": "https://www.ponyride.org",
+    "contact_email": "hello@ponyride.org",
+    "industry_specialties": [
+      "Advanced Manufacturing & Industry 4.0",
+      "AgTech, Food & Forestry",
+      "Main Street, Creative & Small Business",
+      "Mobility, EV & Electrification",
+      "SaaS, AI & Enterprise Software"
+    ],
+    "specialized_equipment": [
+      "3D Printing & Additive Manufacturing",
+      "CNC Machining & Metal Fabrication"
+    ],
+    "services_and_curriculum": [
+      "Executive Mentorship & EIR Program",
+      "Hardware DFM & Supply Chain Advisory",
+      "IP, Patent & Tech Transfer Clinics"
+    ],
+    "last_quarterly_scrape": "2026-10-21T21:57:16.790500+00:00"
+  },
+  {
+    "name": "Michigan SBDC State Headquarters & West Michigan Region (GVSU Seidman)",
+    "slug": "michigan-sbdc-hq-gvsu",
+    "url": "https://michigansbdc.org",
+    "org_type": "Non-Profit Support",
+    "ownership": "University",
+    "address": "50 Front Ave SW, Suite 1020, Grand Rapids, MI 49504",
+    "city": "Grand Rapids",
+    "region": "Region 4: West Michigan",
+    "latitude": 42.96391,
+    "longitude": -85.67751,
+    "description": "Lead statewide headquarters and West Michigan regional office of the Michigan Small Business Development Center hosted at Grand Valley State University, home of the specialized SBDC Tech Team for early-stage tech commercialization.",
+    "application_url": "https://michigansbdc.org/get-started/",
+    "contact_email": "sbdc@gvsu.edu",
+    "industry_specialties": [
+      "Advanced Manufacturing & Industry 4.0",
+      "Main Street, Creative & Small Business",
+      "MedTech, Biotech & Life Sciences",
+      "Mobility, EV & Electrification",
+      "SaaS, AI & Enterprise Software"
+    ],
+    "specialized_equipment": [],
+    "services_and_curriculum": [
+      "Customer Discovery & NSF I-Corps",
+      "Executive Mentorship & EIR Program",
+      "Financial Modeling & Accounting Readiness",
+      "IP, Patent & Tech Transfer Clinics",
+      "SBIR/STTR & Non-Dilutive Grant Writing",
+      "Venture Fundraising & Pitch Coaching"
+    ],
+    "last_quarterly_scrape": "2026-10-21T21:57:15.706696+00:00"
+  },
+  {
+    "name": "Michigan SBDC Southeast Region (Eastern Michigan University)",
+    "slug": "michigan-sbdc-southeast-emu",
+    "url": "https://michigansbdc.org",
+    "org_type": "Non-Profit Support",
+    "ownership": "University",
+    "address": "300 W Michigan Ave, Suite 473, Ypsilanti, MI 48197",
+    "city": "Ypsilanti",
+    "region": "Region 10: Detroit Metro",
+    "latitude": 42.24112,
+    "longitude": -83.61641,
+    "description": "Southeast Michigan SBDC Regional Center hosted by Eastern Michigan University College of Business, serving Wayne, Oakland, Macomb, and Monroe counties with no-cost tech & growth consulting.",
+    "application_url": "https://michigansbdc.org/get-started/",
+    "contact_email": "southeast@michigansbdc.org",
+    "industry_specialties": [
+      "Main Street, Creative & Small Business",
+      "Mobility, EV & Electrification",
+      "SaaS, AI & Enterprise Software"
+    ],
+    "specialized_equipment": [],
+    "services_and_curriculum": [
+      "Customer Discovery & NSF I-Corps",
+      "Executive Mentorship & EIR Program",
+      "Financial Modeling & Accounting Readiness",
+      "IP, Patent & Tech Transfer Clinics",
+      "Venture Fundraising & Pitch Coaching"
+    ],
+    "last_quarterly_scrape": "2026-10-21T21:57:16.334532+00:00"
+  },
+  {
+    "name": "Michigan SBDC Capital Region (Lansing Community College)",
+    "slug": "michigan-sbdc-capital-region-lcc",
+    "url": "https://michigansbdc.org",
+    "org_type": "Non-Profit Support",
+    "ownership": "Public",
+    "address": "309 N Washington Sq, Suite 115, Lansing, MI 48933",
+    "city": "Lansing",
+    "region": "Region 7: South Central Michigan",
+    "latitude": 42.73651,
+    "longitude": -84.55212,
+    "description": "Capital Region Michigan SBDC hosted at Lansing Community College, serving Ingham, Eaton, and Clinton counties with financial projection modeling, market research, and SBIR readiness.",
+    "application_url": "https://michigansbdc.org/get-started/",
+    "contact_email": "capital@michigansbdc.org",
+    "industry_specialties": [
+      "AgTech, Food & Forestry",
+      "Main Street, Creative & Small Business",
+      "Mobility, EV & Electrification",
+      "SaaS, AI & Enterprise Software"
+    ],
+    "specialized_equipment": [],
+    "services_and_curriculum": [
+      "Customer Discovery & NSF I-Corps",
+      "Executive Mentorship & EIR Program",
+      "Financial Modeling & Accounting Readiness",
+      "IP, Patent & Tech Transfer Clinics"
+    ],
+    "last_quarterly_scrape": "2026-10-21T21:57:16.862077+00:00"
+  },
+  {
+    "name": "Michigan SBDC I-69 Trade Corridor Region (Kettering University)",
+    "slug": "michigan-sbdc-i69-kettering",
+    "url": "https://michigansbdc.org",
+    "org_type": "Non-Profit Support",
+    "ownership": "University",
+    "address": "1700 University Ave, Flint, MI 48504",
+    "city": "Flint",
+    "region": "Region 6: East Michigan",
+    "latitude": 43.01121,
+    "longitude": -83.71289,
+    "description": "I-69 Trade Corridor Michigan SBDC hosted at Kettering University in Flint, serving Genesee, Lapeer, Shiawassee, St. Clair, Huron, Sanilac, and Tuscola counties.",
+    "application_url": "https://michigansbdc.org/get-started/",
+    "contact_email": "i69tradecorridor@michigansbdc.org",
+    "industry_specialties": [
+      "Advanced Manufacturing & Industry 4.0",
+      "Main Street, Creative & Small Business",
+      "Mobility, EV & Electrification",
+      "SaaS, AI & Enterprise Software"
+    ],
+    "specialized_equipment": [],
+    "services_and_curriculum": [
+      "Executive Mentorship & EIR Program",
+      "Financial Modeling & Accounting Readiness",
+      "Hardware DFM & Supply Chain Advisory",
+      "IP, Patent & Tech Transfer Clinics"
+    ],
+    "last_quarterly_scrape": "2026-10-21T21:57:16.430442+00:00"
+  },
+  {
+    "name": "Michigan SBDC Northeast & Mid-Michigan Region (Mid Michigan College)",
+    "slug": "michigan-sbdc-mid-michigan-college",
+    "url": "https://michigansbdc.org",
+    "org_type": "Non-Profit Support",
+    "ownership": "Public",
+    "address": "2600 S Summerton Rd, Mt Pleasant, MI 48858",
+    "city": "Mount Pleasant",
+    "region": "Region 3: Northeast Michigan",
+    "latitude": 43.58124,
+    "longitude": -84.73681,
+    "description": "Northeast and Mid-Michigan SBDC Regional Center hosted by Mid Michigan College, providing startup launch training, growth consulting, and financial workshops across rural and central Michigan.",
+    "application_url": "https://michigansbdc.org/get-started/",
+    "contact_email": "midmichigan@michigansbdc.org",
+    "industry_specialties": [
+      "Advanced Manufacturing & Industry 4.0",
+      "AgTech, Food & Forestry",
+      "Main Street, Creative & Small Business",
+      "Mobility, EV & Electrification",
+      "SaaS, AI & Enterprise Software"
+    ],
+    "specialized_equipment": [],
+    "services_and_curriculum": [
+      "Executive Mentorship & EIR Program",
+      "Financial Modeling & Accounting Readiness",
+      "IP, Patent & Tech Transfer Clinics"
+    ],
+    "last_quarterly_scrape": "2026-10-21T21:57:16.320629+00:00"
+  },
+  {
+    "name": "BBC Entrepreneurial Training & Consulting (BBCetc - Michigan SBIR/STTR Partner)",
+    "slug": "bbcetc-michigan-sbir-hub",
+    "url": "https://bbcetc.com",
+    "org_type": "Non-Profit Support",
+    "ownership": "Public-Private Partnership",
+    "address": "7900 Kensington Ct, Suite B110, Brighton, MI 48116",
+    "city": "Brighton",
+    "region": "Region 9: Southeast Michigan",
+    "latitude": 42.50214,
+    "longitude": -83.71921,
+    "description": "MEDC's official statewide SBIR/STTR training and proposal coaching partner, helping Michigan deep-tech, defense, and life science startups win over $400M+ in federal R&D grants.",
+    "application_url": "https://bbcetc.com/michigan-clients/",
+    "contact_email": "info@bbcetc.com",
+    "industry_specialties": [
+      "Advanced Manufacturing & Industry 4.0",
+      "CleanTech, Energy & Blue Economy",
+      "Defense, Aerospace & Dual-Use",
+      "Main Street, Creative & Small Business",
+      "MedTech, Biotech & Life Sciences",
+      "Mobility, EV & Electrification",
+      "SaaS, AI & Enterprise Software"
+    ],
+    "specialized_equipment": [],
+    "services_and_curriculum": [
+      "Executive Mentorship & EIR Program",
+      "FDA Regulatory & Clinical Pathways",
+      "Financial Modeling & Accounting Readiness",
+      "IP, Patent & Tech Transfer Clinics",
+      "SBIR/STTR & Non-Dilutive Grant Writing",
+      "Venture Fundraising & Pitch Coaching"
+    ],
+    "last_quarterly_scrape": "2026-10-21T21:57:14.044348+00:00"
+  },
+  {
+    "name": "Macomb County / Michigan Defense Center APEX Accelerator",
+    "slug": "macomb-apex-accelerator-defense",
+    "url": "https://www.macombbusiness.com/apex-accelerator/",
+    "org_type": "Non-Profit Support",
+    "ownership": "Public",
+    "address": "1 S Main St, 7th Floor, Mount Clemens, MI 48043",
+    "city": "Mount Clemens",
+    "region": "Region 10: Detroit Metro",
+    "latitude": 42.59721,
+    "longitude": -82.87812,
+    "description": "Department of Defense-funded APEX Accelerator assisting Michigan dual-use startups and manufacturers with TACOM, DEVCOM GVSC, federal contracting, CMMC cybersecurity, and DoD SBIR transitions.",
+    "application_url": "https://www.macombbusiness.com/apex-accelerator/",
+    "contact_email": "apex@macombgov.org",
+    "industry_specialties": [
+      "Advanced Manufacturing & Industry 4.0",
+      "Defense, Aerospace & Dual-Use",
+      "Mobility, EV & Electrification"
+    ],
+    "specialized_equipment": [],
+    "services_and_curriculum": [
+      "Executive Mentorship & EIR Program",
+      "Hardware DFM & Supply Chain Advisory",
+      "IP, Patent & Tech Transfer Clinics",
+      "SBIR/STTR & Non-Dilutive Grant Writing"
+    ],
+    "last_quarterly_scrape": "2026-10-21T21:57:14.562522+00:00"
+  }
+]

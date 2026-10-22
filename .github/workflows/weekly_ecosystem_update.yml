@@ -1,0 +1,62 @@
+name: Weekly Michigan Startup Ecosystem Update
+
+on:
+  schedule:
+    # Runs every Sunday at 06:00 UTC (2:00 AM EDT / 1:00 AM EST)
+    - cron: '0 6 * * 0'
+  workflow_dispatch:
+    inputs:
+      force_quarterly:
+        description: 'Force 90-day quarterly deep mentor/program/facility enrichment'
+        required: false
+        default: 'false'
+        type: choice
+        options:
+          - 'false'
+          - 'true'
+
+permissions:
+  contents: read
+
+jobs:
+  update-ecosystem-db:
+    name: Run Unattended Ecosystem Update Daemon
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Install Playwright Chromium & system dependencies
+        run: playwright install --with-deps chromium
+
+      - name: Run Auto Update Daemon
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
+        run: |
+          if [ "${{ github.event.inputs.force_quarterly }}" = "true" ]; then
+            python auto_update_daemon.py --force-quarterly
+          else
+            python auto_update_daemon.py
+          fi
+
+      - name: Upload update_history.log artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: ecosystem-update-history-log
+          path: logs/update_history.log
+          retention-days: 30
